@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+div.bg{margin-left:5%;vertical-align:top;width:1200px;height:800px;border:1px solid blue;background:url(images/bg.png ) scroll no-repeat;line-height:1.5em;box-align:center;}
+div.topone{width:1200px;height:100px;float:top;border:1px solid blue;background: scroll no-repeat ;}
+div.leftone{float:left;width:196px;height:700px;border:1px solid blue;background: scroll no-repeat;}
+div.middleone{float:left;width:1000px;height:500px;border:1px solid blue;background:scroll no-repeat;}
+div.bottleone{float:left;width:1000px;height:200px;border:1px solid blue;background: scroll no-repeat ;}
